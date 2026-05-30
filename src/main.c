@@ -52,7 +52,7 @@ int main(void) {
         switch (choice) {
             case 1: run_ch01_demo(); break;
             case 2: run_ch02_demo(); break;
-            case 3: run_ch03_demo(); break;
+            case 3: run_ch03_process_demo(); break;
             case 4: run_ch04_demo(); break;
             case 5: run_ch05_demo(); break;
             case 6: run_ch06_demo(); break;
